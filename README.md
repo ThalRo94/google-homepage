@@ -1,1 +1,1 @@
-# google-homepage
+My first project. I'm trying to recreate the appearance of the google homepage using HTML and CSS.
